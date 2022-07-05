@@ -9,6 +9,7 @@ const StyledButton = styled.button`
   font-size: 1rem;
   border-radius: 3px;
   cursor: pointer;
+  margin-bottom: 15px;
 `;
 
 export { StyledButton };
